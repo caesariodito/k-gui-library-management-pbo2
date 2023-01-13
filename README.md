@@ -1,4 +1,4 @@
-# k-gui-library-management-pbo2 Assignment on Object Oriented Programming 2
+# Assignment on Object Oriented Programming 2
 
 Library Management Systems
 
