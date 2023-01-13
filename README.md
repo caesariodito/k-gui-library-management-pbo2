@@ -1,9 +1,11 @@
 # Assignment on Object Oriented Programming 2
 
-Library Management Systems
+Library Management Systems build with java
 
-![img](https://github.com/caesariodito/k-gui-library-management-pbo2/blob/master/img/Overview_205314159_Page_2.jpg)
-![img](https://github.com/caesariodito/k-gui-library-management-pbo2/blob/master/img/Overview_205314159_Page_3.jpg)
-![img](https://github.com/caesariodito/k-gui-library-management-pbo2/blob/master/img/Overview_205314159_Page_4.jpg)
-![img](https://github.com/caesariodito/k-gui-library-management-pbo2/blob/master/img/Overview_205314159_Page_5.jpg)
-![img](https://github.com/caesariodito/k-gui-library-management-pbo2/blob/master/img/Overview_205314159_Page_6.jpg)
+### Overviews
+
+![page 2](img/Overview_205314159_Page_2.jpg)
+![page 3](img/Overview_205314159_Page_3.jpg)
+![page 4](img/Overview_205314159_Page_4.jpg)
+![page 5](img/Overview_205314159_Page_5.jpg)
+![page 6](img/Overview_205314159_Page_6.jpg)
